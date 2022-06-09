@@ -32,8 +32,8 @@ footer{
 	font: normal Arial;
 }
 
-@media screen and (max-width: 700px){
+@media screen and (max-width: 480px){
 	section{
-		width: 100px;
+		width: 500px;
 	}
 }
