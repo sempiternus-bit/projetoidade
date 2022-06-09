@@ -33,7 +33,4 @@ footer{
 }
 
 @media screen and (max-width: 700px){
-	section{
-		width: 20%;
-	}
 }
