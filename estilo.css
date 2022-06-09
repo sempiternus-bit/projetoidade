@@ -20,6 +20,11 @@ section{
 	align-items: center;
 
 }
+#r{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
 footer{
 	color: #fff;
 	font-style: italic;
