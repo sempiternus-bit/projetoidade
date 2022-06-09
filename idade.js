@@ -42,8 +42,6 @@ function verificar(){
 				g = 'uma idosa'
 			}
 		}
-		img.style.width = '250px'
-		r.style.textAlign = 'center'
 		r.innerHTML = `Você é ${g} de idade ${idade}`
 		r.appendChild(img)
 	}
